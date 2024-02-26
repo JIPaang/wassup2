@@ -1,6 +1,1 @@
-# wassup2
-test
-
-## hello
-
-##pull test
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WASSUP2&fontSize=90" />
