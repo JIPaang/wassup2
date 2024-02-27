@@ -20,10 +20,9 @@
 ## 🧩Projects
 
 이곳은 프로젝트 영역임니다. 앞으로 진행한 내용을 올릴 예정이에욤<br>
-| - | 업로드날짜 |
-|:------:|:------:|
-| * [Markdawn](https://github.com/JIPaang/wassup2/tree/main/python_grammar) | 24.02.27   | 
-| 해잉  | 배윙   |
+| * [Markdawn](https://github.com/JIPaang/wassup2/tree/main/python_grammar) | * 제목티비 | *제목제목 | *제목제목 | *제목제목 |
+|:------:|:------:|:------:|:------:|:------:|
+| 24.02.27 | 배윙 | 바윙 | 킹아 | 해윙 |
 <br>
 엔비디아 80층입니다. 요즘 너무 햄복해요<br>
  <br>
