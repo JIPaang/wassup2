@@ -16,6 +16,20 @@
 **방문해주셔서 감사합니다. WASSUP2기 AI기획 부트캠프에 참여하는 김지광입니다.**<br>
 <br>
 이곳은 제가 진행한 프로젝트, 실험 아이디어, 그리고 교훈을 공유하는 공간입니다. 부트캠프를 통해 기술과 트렌드에 대해 깊이 탐구하고 싶습니다, 이 과정에서 형님들과 지식을 공유하고 함께 성장하는 것을 기대합니다!<br>
+<table>
+<tr>
+<td>
+
+* [마크다운(Markdawn)](https://github.com/JIPaang/wassup2/tree/main/python_grammar)   24.02.27
+
+</td>
+<td>
+
+두 번째 칼럼 내용
+
+</td>
+</tr>
+</table>
  <br>
 ## 🧩Projects
 
@@ -32,18 +46,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=footer" />
 
 
-<table>
-<tr>
-<td width="50%">
 
-첫 번째 칼럼 내용
-
-</td>
-<td width="50%">
-
-두 번째 칼럼 내용
-
-</td>
-</tr>
-</table>
 
