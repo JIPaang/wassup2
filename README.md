@@ -20,6 +20,7 @@
  
 ## 🧩Projects
 이곳은 프로젝트 영역임니다. 앞으로 진행한 내용을 올릴 예정이에욤<br>
+[마크다운](https://github.com/JIPaang/wassup2/tree/main/python_grammar)
 엔비디아 80층입니다. 요즘 너무 햄복해요
 
 
