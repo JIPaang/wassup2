@@ -20,10 +20,11 @@
 ## 🧩Projects
 
 이곳은 프로젝트 영역임니다. 앞으로 진행한 내용을 올릴 예정이에욤<br>
-* 마크다운(Markdawn)](https://github.com/JIPaang/wassup2/tree/main/python_grammar) 24.02.27      
+* [마크다운(Markdawn)](https://github.com/JIPaang/wassup2/tree/main/python_grammar) 24.02.27      
 <br>
 엔비디아 80층입니다. 요즘 너무 햄복해요<br>
- <br>
+
+
 ## **🐾Contact**
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpdlszjs4@gmail.com) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://oreumi.notion.site/09f569b9c9ae4b4a8e522820ac430f3d?pvs=25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paaang/)
