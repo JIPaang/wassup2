@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WASSUP2&fontSize=70" />
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WASSUP2&fontSize=70" /><br>
+
 # Welcome to My GitHub! 👋
 
 안녕하세요!, 방문해주셔서 감사합니다! <br>
