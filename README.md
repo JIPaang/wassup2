@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WASSUP2&fontSize=70&fontColor=blue" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WASSUP2&fontSize=70" />
+<br>
 # Welcome to My GitHub! 👋
 
-안녕하세요!, 방문해주셔서 감사합니다! WASSUP2기 AI기획 부트캠프에 참여하는 김지광 입니다.  
-  이곳은 제가 진행한 프로젝트, 실험 아이디어, 그리고 교훈을 공유하는 공간입니다!
+안녕하세요!, 방문해주셔서 감사합니다! <br>
+WASSUP2기 AI기획 부트캠프에 참여하는 김지광 입니다. <br>
+이곳은 제가 진행한 프로젝트, 실험 아이디어, 그리고 교훈을 공유하는 공간입니다!<br><br>
 
 같은 기수의 여러분과 여정을 함께하게 되어 기쁩니다! 앞으로 잘 부탁드립니다!🌟
 
