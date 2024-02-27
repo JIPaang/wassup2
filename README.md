@@ -4,11 +4,12 @@
 
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"/>
----
+
 # Welcome to My GitHub! 👋
 
 안녕하세요! 방문해주셔서 감사합니다.
----
+
+
 ![Colorful cartoon village scene](image/backcground.png)
 
 ---
