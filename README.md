@@ -9,7 +9,7 @@
 
 안녕하세요! 방문해주셔서 감사합니다.
 
-![Colorful cartoon village scene](image/background.png)
+![Colorful cartoon village scene](image/backcground.png)
 
 
 ## 소개
