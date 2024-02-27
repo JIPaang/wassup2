@@ -30,3 +30,20 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=footer" />
+
+
+<table>
+<tr>
+<td>
+
+여기에 첫 번째 칼럼의 내용을 쓸 수 있습니다.
+
+</td>
+<td>
+
+여기에 두 번째 칼럼의 내용을 쓸 수 있습니다.
+
+</td>
+</tr>
+</table>
+
