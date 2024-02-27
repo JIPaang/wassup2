@@ -8,7 +8,7 @@
 # Welcome to My GitHub! 👋
 
 
-![Colorful cartoon village scene](image/backcground.png)
+![Colorful cartoon village scene](image/cute.png)
 
 ---
 ## 소개
