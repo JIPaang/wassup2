@@ -25,45 +25,25 @@
 
   <summary>Python [24.02~]</summary>
   
-* [01.Python_Markdown](https://github.com/JIPaang/wassup2/blob/main/python_grammar/01.Python_Markdown.ipynb) \[ 24.02.27 \]
-
-<br>	
-
-* [02.Python_Data type & Variable](https://github.com/JIPaang/wassup2/blob/main/python_grammar/02.Python_Data%20type%20%26%20Variable.ipynb) \[ 24.02.27 \]
-
-<br>	
-
-* [03.Python_List](https://github.com/JIPaang/wassup2/blob/main/python_grammar/03.Python_List.ipynb) \[ 24.02.27 \]
-
-<br>
-
-* [04.Python_Data Types](https://github.com/JIPaang/wassup2/blob/main/python_grammar/04.Python_Data%20Types.ipynb) \[ 24.02.28 \]
-
-<br>
-
-* [05.Python Conditional Statement](https://github.com/JIPaang/wassup2/blob/main/python_grammar/05.Python%20Conditional%20Statement.ipynb) \[ 24.03.06 \]
-
-<br>
-
-* [06.Phython_Functions&File](https://github.com/JIPaang/wassup2/blob/main/python_grammar/06.Phython_Functions%26File.ipynb) \[ 24.03.07 \]
-
-<br>	
-
-* [Python_300제 1~50](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python_300%EC%A0%9C%201~50.ipynb) \[ 24.02.29 \]
-
-<br>
+* [01.Python_Markdown](https://github.com/JIPaang/wassup2/blob/main/python_grammar/01.Python_Markdown.ipynb) \[ 24.02.27 \]<br>
 	
-* [Python_300제 51~100](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python_300%EC%A0%9C%2051~100.ipynb) \[ 24.02.29 \]
+* [02.Python_Data type & Variable](https://github.com/JIPaang/wassup2/blob/main/python_grammar/02.Python_Data%20type%20%26%20Variable.ipynb) \[ 24.02.27 \]<br>	
 
-<br>
+* [03.Python_List](https://github.com/JIPaang/wassup2/blob/main/python_grammar/03.Python_List.ipynb) \[ 24.02.27 \]<br>
+
+* [04.Python_Data Types](https://github.com/JIPaang/wassup2/blob/main/python_grammar/04.Python_Data%20Types.ipynb) \[ 24.02.28 \]<br>
+
+* [05.Python Conditional Statement](https://github.com/JIPaang/wassup2/blob/main/python_grammar/05.Python%20Conditional%20Statement.ipynb) \[ 24.03.06 \]<br>
+
+* [06.Phython_Functions&File](https://github.com/JIPaang/wassup2/blob/main/python_grammar/06.Phython_Functions%26File.ipynb) \[ 24.03.07 \]<br>	
+
+* [Python_300제 1~50](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python_300%EC%A0%9C%201~50.ipynb) \[ 24.02.29 \]<br>
 	
-* [Python 300제 100~150](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python%20300%EC%A0%9C%20100~150.ipynb) \[ 24.03.06 \]
+* [Python_300제 51~100](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python_300%EC%A0%9C%2051~100.ipynb) \[ 24.02.29 \]<br>
+	
+* [Python 300제 100~150](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python%20300%EC%A0%9C%20100~150.ipynb) \[ 24.03.06 \]<br>	
 
-<br>	
-
-* [Python 300제 151~200](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python%20300%EC%A0%9C%20151~200.ipynb) \[ 24.03.07 \]
-
-<br>	
+* [Python 300제 151~200](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python%20300%EC%A0%9C%20151~200.ipynb) \[ 24.03.07 \]<br>	
 
 * [자료형&변수_연습문제_실습용](https://github.com/JIPaang/wassup2/blob/main/python_grammar/%EC%9E%90%EB%A3%8C%ED%98%95%26%EB%B3%80%EC%88%98_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%8B%A4%EC%8A%B5%EC%9A%A9.ipynb) \[ 24.02.29 \]<br>
 	
