@@ -33,5 +33,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=footer" />
 
 
+<details>
+  <summary>클릭하여 내용을 펼치기/접기</summary>
+  
+  내용을 여기에 입력하세요.
+</details>
 
 
