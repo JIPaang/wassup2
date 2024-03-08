@@ -21,7 +21,18 @@
 
 이곳은 프로젝트 영역임니다. 앞으로 진행한 내용을 올릴 예정이에욤<br>
 킹아 <br>
-* [마크다운(Markdawn)](https://github.com/JIPaang/wassup2/tree/main/python_grammar) 24.02.27<br>
+
+<details>
+
+  <summary>Python [24.02~]</summary>
+  
+* [마크다운(Markdawn)](https://github.com/JIPaang/wassup2/tree/main/python_grammar) 24.02.27<br>	
+
+
+
+</details>
+
+
  <br>
 
 
@@ -34,9 +45,8 @@
 
 
 <details>
-  <summary>클릭하여 내용을 펼치기/접기</summary>
+  <summary>Python [24.02~]</summary>
   
-  내용을 여기에 입력하세요.
-</details>
+
 
 
