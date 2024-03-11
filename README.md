@@ -35,7 +35,9 @@
 
 * [05.Python Conditional Statement](https://github.com/JIPaang/wassup2/blob/main/python_grammar/05.Python%20Conditional%20Statement.ipynb) \[ 24.03.06 \]<br>
 
-* [06.Phython_Functions&File](https://github.com/JIPaang/wassup2/blob/main/python_grammar/06.Phython_Functions%26File.ipynb) \[ 24.03.07 \]<br>	
+* [06.Phython_Functions&File](https://github.com/JIPaang/wassup2/blob/main/python_grammar/06.Phython_Functions%26File.ipynb) \[ 24.03.07 \]<br>
+
+* [07.Processing related to classes](https://github.com/JIPaang/wassup2/blob/main/python_grammar/07.Processing%20related%20to%20classes.ipynb \[ 24.03.11 \]<br>	
 
 * [Python_300제 1~50](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python_300%EC%A0%9C%201~50.ipynb) \[ 24.02.29 \]<br>
 	
