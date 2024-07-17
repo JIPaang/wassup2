@@ -26,24 +26,37 @@
   <summary>Python </summary>
   
 * [01.Python_Markdown](https://github.com/JIPaang/wassup2/blob/main/python_grammar/01.Python_Markdown.ipynb) <br>
-* [02.Python_Data type & Variable](https://github.com/JIPaang/wassup2/blob/main/python_grammar/02.Python_Data%20type%20%26%20Variable.ipynb) <br>	
+
+* [02.Python_Data type & Variable](https://github.com/JIPaang/wassup2/blob/main/python_grammar/02.Python_Data%20type%20%26%20Variable.ipynb) <br>
+* 
 * [03.Python_List](https://github.com/JIPaang/wassup2/blob/main/python_grammar/03.Python_List.ipynb) <br>
+
 * [04.Python_Data Types](https://github.com/JIPaang/wassup2/blob/main/python_grammar/04.Python_Data%20Types.ipynb) <br>
+
 * [05.Python Conditional Statement](https://github.com/JIPaang/wassup2/blob/main/python_grammar/05.Python%20Conditional%20Statement.ipynb) <br>
+
 * [06.Phython_Functions&File](https://github.com/JIPaang/wassup2/blob/main/python_grammar/06.Phython_Functions%26File.ipynb) <br>
-* [07.Processing related to classes](https://github.com/JIPaang/wassup2/blob/main/python_grammar/07.Processing%20related%20to%20classes.ipynb) <br>	
-* [Python_300제 1~50](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python_300%EC%A0%9C%201~50.ipynb) <br>	
-* [Python_300제 51~100](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python_300%EC%A0%9C%2051~100.ipynb) <br>	
-* [Python 300제 100~150](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python%20300%EC%A0%9C%20100~150.ipynb) <br>	
+
+* [07.Processing related to classes](https://github.com/JIPaang/wassup2/blob/main/python_grammar/07.Processing%20related%20to%20classes.ipynb) <br>
+* 
+* [Python_300제 1~50](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python_300%EC%A0%9C%201~50.ipynb) <br>
+* 
+* [Python_300제 51~100](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python_300%EC%A0%9C%2051~100.ipynb) <br>
+* 
+* [Python 300제 100~150](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python%20300%EC%A0%9C%20100~150.ipynb) <br>
+* 
 * [Python 300제 151~200](https://github.com/JIPaang/wassup2/blob/main/python_grammar/Python%20300%EC%A0%9C%20151~200.ipynb) <br>	
-* [자료형&변수_연습문제_실습용](https://github.com/JIPaang/wassup2/blob/main/python_grammar/%EC%9E%90%EB%A3%8C%ED%98%95%26%EB%B3%80%EC%88%98_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%8B%A4%EC%8A%B5%EC%9A%A9.ipynb) <br>
-* [제어문_연습문제_실습용](https://github.com/JIPaang/wassup2/blob/main/python_grammar/%EC%A0%9C%EC%96%B4%EB%AC%B8_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%8B%A4%EC%8A%B5%EC%9A%A9.ipynb) <br>	
+* [자료형&변수_연습문제_실습용]
+* (https://github.com/JIPaang/wassup2/blob/main/python_grammar/%EC%9E%90%EB%A3%8C%ED%98%95%26%EB%B3%80%EC%88%98_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%8B%A4%EC%8A%B5%EC%9A%A9.ipynb) <br>
+
+* [제어문_연습문제_실습용](https://github.com/JIPaang/wassup2/blob/main/python_grammar/%EC%A0%9C%EC%96%B4%EB%AC%B8_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%8B%A4%EC%8A%B5%EC%9A%A9.ipynb) <br>
+* 
 * [코딩연습_전화번호프로그램_실습용](https://github.com/JIPaang/wassup2/blob/main/python_grammar/%EC%BD%94%EB%94%A9%EC%97%B0%EC%8A%B5_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%8B%A4%EC%8A%B5%EC%9A%A9.ipynb) <br>	
 
 </details>
 
 <details>
-<summary>Data_Collection </summary>
+ <summary>Data_Collection </summary>
 
 * [01.BeautifulSoup](https://github.com/JIPaang/wassup2/blob/main/02.%20Data_Collection/01_BeautifulSoup.ipynb) <br>
 
@@ -55,11 +68,35 @@
 
 * [05.web_scraping](https://github.com/JIPaang/wassup2/blob/main/02.%20Data_Collection/web_scraping.py) <br>
 
+</details>
 
+<details>
+ <summary>Data_processing </summary>
+
+ * [01.Numpy](https://github.com/JIPaang/wassup2/blob/main/03.%20Data_processing/01_Numpy.ipynb) <br>
+
+ * [02.Numpy_Quiz_실습](https://github.com/JIPaang/wassup2/blob/main/03.%20Data_processing/01_Numpy_Quiz_%EC%8B%A4%EC%8A%B5.ipynb) <br>
+
+ * [03.Pandas 패키지의 소개](https://github.com/JIPaang/wassup2/blob/main/03.%20Data_processing/02.1_Pandas%20%ED%8C%A8%ED%82%A4%EC%A7%80%EC%9D%98%20%EC%86%8C%EA%B0%9C.ipynb) <br>
+
+ * [04.Pandas 데이터 입출력](https://github.com/JIPaang/wassup2/blob/main/03.%20Data_processing/02.2_Pandas%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%85%EC%B6%9C%EB%A0%A5.ipynb) <br>
+
+ * [05.Pandas 데이터프레임 고급 인덱싱](https://github.com/JIPaang/wassup2/blob/main/03.%20Data_processing/02.3_Pandas%20%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%20%EA%B3%A0%EA%B8%89%20%EC%9D%B8%EB%8D%B1%EC%8B%B1.ipynb) <br>
+
+ * [06.Pandas 데이터프레임 데이터 조작](https://github.com/JIPaang/wassup2/blob/main/03.%20Data_processing/02.4_Pandas%20%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A1%B0%EC%9E%91.ipynb) <br>
+
+ * [07.데이터프레임 인덱스 조작](https://github.com/JIPaang/wassup2/blob/main/03.%20Data_processing/02.5_Pandas%20%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%A1%B0%EC%9E%91.ipynb) <br>
+
+ * [08.데이터프레임 합성](https://github.com/JIPaang/wassup2/blob/main/03.%20Data_processing/02.6_Pandas%20%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%20%ED%95%A9%EC%84%B1.ipynb) <br>
+
+ * [09.피봇테이블과 그룹분석](https://github.com/JIPaang/wassup2/blob/main/03.%20Data_processing/02.7_Pandas%20%ED%94%BC%EB%B4%87%ED%85%8C%EC%9D%B4%EB%B8%94%EA%B3%BC%20%EA%B7%B8%EB%A3%B9%EB%B6%84%EC%84%9D.ipynb) <br>
+
+ * [10.시계열 자료 다루기](https://github.com/JIPaang/wassup2/blob/main/03.%20Data_processing/02.8_Pandas%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EC%9E%90%EB%A3%8C%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb) <br>
 
 </details>
 
-
+<details>
+ <summary>Data_Visualization</summary>
  <br>
 
 
