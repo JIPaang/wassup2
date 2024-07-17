@@ -24,7 +24,7 @@
 <details>
 
   <summary>01.Python </summary>
-  
+  ---
 * [01.Python_Markdown](https://github.com/JIPaang/wassup2/blob/main/python_grammar/01.Python_Markdown.ipynb) <br>
 
 * [02.Python_Data type & Variable](https://github.com/JIPaang/wassup2/blob/main/python_grammar/02.Python_Data%20type%20%26%20Variable.ipynb) <br>
@@ -126,9 +126,9 @@
 <details>
  <summary>06.Machine Learning</summary>
 
- * [01.Label_Encoding&Neumeric_Scaling]([https://github.com/JIPaang/wassup2/blob/main/02.%20Data_Collection/01_BeautifulSoup.ipynb](https://github.com/JIPaang/wassup2/blob/main/06.%20Machine%20Learning/00_Label_Encoding%26Neumeric_Scaling.ipynb)) <br>
+ * [01.Label_Encoding&Neumeric_Scaling](https://github.com/JIPaang/wassup2/blob/main/06.%20Machine%20Learning/00_Label_Encoding%26Neumeric_Scaling.ipynb) <br>
 
- * [02.Gradient_Descent]([https://github.com/JIPaang/wassup2/blob/main/02.%20Data_Collection/01_BeautifulSoup.ipynb](https://github.com/JIPaang/wassup2/blob/main/06.%20Machine%20Learning/01_Gradient_Descent.ipynb)) <br>
+ * [02.Gradient_Descent](https://github.com/JIPaang/wassup2/blob/main/06.%20Machine%20Learning/01_Gradient_Descent.ipynb) <br>
 
  * [03.Model_Validation](https://github.com/JIPaang/wassup2/blob/main/06.%20Machine%20Learning/02_Model_Validation.ipynb) <br>
 
