@@ -58,7 +58,7 @@
 * [함수&입출력_연습문제_실습](https://github.com/JIPaang/wassup2/blob/main/01.%20Python_grammar/%ED%95%A8%EC%88%98%26%EC%9E%85%EC%B6%9C%EB%A0%A5_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C_%EC%8B%A4%EC%8A%B5.ipynb) <br>
 
 </details>
----
+
 <details>
  <summary>02.Data_Collection </summary>
 
