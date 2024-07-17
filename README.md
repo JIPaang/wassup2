@@ -24,7 +24,7 @@
 <details>
 
   <summary>01.Python </summary>
-  ---
+---
 * [01.Python_Markdown](https://github.com/JIPaang/wassup2/blob/main/python_grammar/01.Python_Markdown.ipynb) <br>
 
 * [02.Python_Data type & Variable](https://github.com/JIPaang/wassup2/blob/main/python_grammar/02.Python_Data%20type%20%26%20Variable.ipynb) <br>
